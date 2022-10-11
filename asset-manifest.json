@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/demo_landing/static/css/main.b65a9043.css",
-    "main.js": "/demo_landing/static/js/main.e7b971f2.js",
+    "main.css": "/demo_landing/static/css/main.8fb325f9.css",
+    "main.js": "/demo_landing/static/js/main.1c4a7d51.js",
     "static/js/787.bbe6ce90.chunk.js": "/demo_landing/static/js/787.bbe6ce90.chunk.js",
     "static/media/video_pnipa.png": "/demo_landing/static/media/video_pnipa.0e45f4abe82f319e6de9.png",
     "static/media/banner_langostino.jpg": "/demo_landing/static/media/banner_langostino.3988c5fb2d848c2e9d5b.jpg",
     "static/media/banner_lago_arapa.jpg": "/demo_landing/static/media/banner_lago_arapa.5ffc560c9742f035d5da.jpg",
+    "static/media/fondo_footer_malla.svg": "/demo_landing/static/media/fondo_footer_malla.b29f91f2d54d7044236c80bfd52200b7.svg",
     "static/media/Montserrat-Bold.ttf": "/demo_landing/static/media/Montserrat-Bold.68c8d686f4b0d91b92f1.ttf",
+    "static/media/fondo_rojo_algas_derecha.svg": "/demo_landing/static/media/fondo_rojo_algas_derecha.ae24d176b7eb3246f74bf818b98c61e2.svg",
     "static/media/Gilroy-Regular.ttf": "/demo_landing/static/media/Gilroy-Regular.5b89a8df3b17dccdb73f.ttf",
     "static/media/Gilroy-Medium.ttf": "/demo_landing/static/media/Gilroy-Medium.1b4da6582f83f45ea039.ttf",
     "static/media/Gilroy-SemiBold.ttf": "/demo_landing/static/media/Gilroy-SemiBold.07b9100a72fe7d46d20a.ttf",
@@ -47,17 +49,19 @@
     "static/media/icon_sn_instagram.svg": "/demo_landing/static/media/icon_sn_instagram.3c2c6c19772b5bf64e8c6a47e96c0de2.svg",
     "static/media/icon_sn_linkedin.svg": "/demo_landing/static/media/icon_sn_linkedin.42d92473018563b62c9aa4b67b04d568.svg",
     "static/media/icon_eventos_descargar.svg": "/demo_landing/static/media/icon_eventos_descargar.aa2055c30939e93e8fbd02a97dc3e72f.svg",
+    "static/media/fondo_rojo_pescado_izquierda.svg": "/demo_landing/static/media/fondo_rojo_pescado_izquierda.5e3902fc04778d0e2398d9aded3e5782.svg",
+    "static/media/fondo_rojo_pescado_derecha.svg": "/demo_landing/static/media/fondo_rojo_pescado_derecha.44284919432dfb6ab9972d3bca24be3f.svg",
     "static/media/icon_sn_facebook.svg": "/demo_landing/static/media/icon_sn_facebook.26e69ea5651787a7bd94364c2da7c716.svg",
     "index.html": "/demo_landing/index.html",
     "static/media/icon_eventos_ubicacion.svg": "/demo_landing/static/media/icon_eventos_ubicacion.86b7aa54486bb589f074ccd4151fef32.svg",
     "static/media/icon_intro_btnmas.svg": "/demo_landing/static/media/icon_intro_btnmas.3825a4a55ba495297db1515d40f6fc8c.svg",
     "static/media/icon_slash_red.svg": "/demo_landing/static/media/icon_slash_red.5e9c791036162213532d05b05cdb97d6.svg",
-    "main.b65a9043.css.map": "/demo_landing/static/css/main.b65a9043.css.map",
-    "main.e7b971f2.js.map": "/demo_landing/static/js/main.e7b971f2.js.map",
+    "main.8fb325f9.css.map": "/demo_landing/static/css/main.8fb325f9.css.map",
+    "main.1c4a7d51.js.map": "/demo_landing/static/js/main.1c4a7d51.js.map",
     "787.bbe6ce90.chunk.js.map": "/demo_landing/static/js/787.bbe6ce90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b65a9043.css",
-    "static/js/main.e7b971f2.js"
+    "static/css/main.8fb325f9.css",
+    "static/js/main.1c4a7d51.js"
   ]
 }
